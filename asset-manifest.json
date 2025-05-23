@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/students-recipe-book/static/css/main.e6c13ad2.css",
+    "main.js": "/students-recipe-book/static/js/main.cd9c0147.js",
+    "index.html": "/students-recipe-book/index.html",
+    "main.e6c13ad2.css.map": "/students-recipe-book/static/css/main.e6c13ad2.css.map",
+    "main.cd9c0147.js.map": "/students-recipe-book/static/js/main.cd9c0147.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cd9c0147.js"
+  ]
+}

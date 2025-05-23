@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: students-recipe-book
+    env: static
+    buildCommand: npm install --legacy-peer-deps && npm run build
+    staticPublishPath: build
+    autoDeploy: true
